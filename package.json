@@ -1,0 +1,21 @@
+{
+  "name": "afterjs_favs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "npx nodemon main.js",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.19",
+    "prettier": "^2.7.1",
+    "telegraf": "^4.8.6",
+    "ts-node": "^10.9.1"
+  }
+}
